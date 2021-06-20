@@ -1,2 +1,2 @@
 # class-6-assignment
-<img scr="Assignment.png" alt="assingnment">
+<img src="Assignment.png" alt="assignment">
